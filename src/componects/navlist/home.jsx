@@ -34,12 +34,12 @@ function Home() {
                 </a>
               </li>
               <li className="pb-1 pt-1">
-                <a id="artfttg" href="/Snack">
+                <a id="artfttg" href="/snack">
                   Home2
                 </a>
               </li>
               <li className="pb-1 pt-1">
-                <a id="artfttg" href="/Cart">
+                <a id="artfttg" href="/cart">
                   Home3
                 </a>
               </li>

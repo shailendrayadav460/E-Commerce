@@ -31,7 +31,7 @@ function Naviii() {
             <Nav className="me-100%">
               <ul className='alfdfdf' >
                 <li>
-                  <a id='artft' href='/Snack'>Deals</a>
+                  <a id='artft' href='/snack'>Deals</a>
                 </li>
                 <li>
                   <Home/>
@@ -55,7 +55,7 @@ function Naviii() {
                   <Pages />
                 </li>
                 <li className='ms-4'>
-                  <a id='artft' href='/Contact'>Contact</a>
+                  <a id='artft' href='/contact'>Contact</a>
                 </li>
               </ul>
             </Nav>

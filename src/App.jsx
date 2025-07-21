@@ -59,8 +59,8 @@ function App() {
       <Naviii />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/Snack" element={<Snackitems />} />
-        <Route path="/Contact" element={<Contactpages/>} />
+        <Route path="/snack" element={<Snackitems />} />
+        <Route path="/contact" element={<Contactpages/>} />
         <Route path="/Compare" element={<Comparepg />} />
         <Route path="/Wishlist" element={<Wishlist />} />
         <Route path="/secndp" element={<Secndp />} />
